@@ -15,7 +15,7 @@ int main() {
 
     swapNumbers(&x, &y);  
 
-    cout << "After swapping:\n";
+    cout << "After swapping:  ";
     cout << "x = " << x << ", y = " << y << endl;
 
     return 0;
