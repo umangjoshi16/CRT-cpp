@@ -8,9 +8,9 @@ int main(){
         cin>>num;
         
         if(num < 0){
-            break;  //terminate loop if negativenumber is entered
+            break;  
         }
-        sum += num; //add to sum if number is positive(or zero) 
+        sum += num; 
     }
     cout<<"Final sum is:"<< sum <<endl;
 
